@@ -16,7 +16,7 @@ ALTK is an open-source library of components to help agent builders improve thei
 The key repositories of ALTK are:
 
 - [altk-main](https://github.com/agenttoolkit/altk-main) - The home of the main `altk` package.
-- [altk-evolve(https://github.com/agenttoolkit/kaizen) - Augment your prompt with task-specific context that helps your agent learn from past mistakes
+- [altk-evolve](https://github.com/agenttoolkit/kaizen) - Augment your prompt with task-specific context that helps your agent learn from past mistakes
 
 
 ## License
